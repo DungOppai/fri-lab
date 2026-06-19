@@ -1,0 +1,5 @@
+Name,Email,Phone,SSN,CreditCard
+Nguyen Van A,nguyen.a@example.com,0901234567,987-65-4321,4111111111111111
+Tran Thi B,tran.b@example.com,0912345678,123-45-6789,4222222222222222
+Le Van C,le.c@example.com,0923456789,321-54-9876,5105105105105105
+Pham Minh D,pham.d@example.com,0934567890,555-66-7777,6011111111111117
